@@ -6,7 +6,7 @@ A new way of teaching. Jupyter Notebooks for Semantic Web, Linked Data and Knowl
 
 
 # Research questions
-> **Q:** Would Juypter Notebooks improve students adaptance to Semantic Web course?
+> **Q:** Would Jupyter Notebooks improve students adaptance to Semantic Web course?
 
 
 # Milestones
