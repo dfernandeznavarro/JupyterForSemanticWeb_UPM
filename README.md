@@ -11,7 +11,7 @@ A new way of teaching. Jupyter Notebooks for Semantic Web, Linked Data and Knowl
 
 # Milestones
 I will commit three important milestones: 
-  > **M1**: Project description.
+  > **M1**: Project introduction.
 
   > **M2**: Half semester tracking report.
  
